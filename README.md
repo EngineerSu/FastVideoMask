@@ -50,7 +50,7 @@
 
 <!-- 请在截图后替换下方占位符 -->
 <p align="center">
-  <img src="screenshots/main.png" alt="主界面截图" width="600">
+  <img src="./screenshots/main.png" alt="主界面截图" width="600">
 </p>
 
 ## 安装
